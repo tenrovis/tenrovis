@@ -1,17 +1,18 @@
+
 # Tenrovis
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Developer;Engineering+%26+Creativity;Learning+by+Building;Turning+Ideas+into+Reality](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&size=30\&duration=2500\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=800\&lines=Software+Developer;Engineering+%26+Creativity;Learning+by+Building;Turning+Ideas+into+Reality)" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Developer;Engineering+and+Creativity;Learning+by+Building;Turning+Ideas+into+Reality" alt="Typing animation" />
 
 ### Software Development • Python • Engineering
 
 *Building things from scratch. Exploring ideas. Learning how technology works.*
 
-\
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)](https://github.com/tenrovis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nijat-eshrefov-435972293/)
 
-
-\</div>
+</div>
 
 ---
 
@@ -34,11 +35,11 @@ My interests include:
 
 **Languages and tools I'm exploring**
 
-\<p> \<img src="[https://skillicons.dev/icons?i=python,js,ts,git,github,vscode](https://skillicons.dev/icons?i=python,js,ts,git,github,vscode)" /> \</p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,git,github,vscode" alt="Languages and tools" />
 
 **Web development**
 
-\<p> \<img src="[https://skillicons.dev/icons?i=html,css,react,nextjs](https://skillicons.dev/icons?i=html,css,react,nextjs)" /> \</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" alt="Web technologies" />
 
 ---
 
@@ -65,20 +66,20 @@ My goal is simple: **become a better engineer by creating real things.**
 
 ## GitHub Activity
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://github-readme-stats.vercel.app/api?username=tenrovis&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=tenrovis\&show_icons=true\&theme=tokyonight\&hide_border=true)" />
+<img src="https://github-readme-stats.vercel.app/api?username=tenrovis&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 
-\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=tenrovis&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=tenrovis\&layout=compact\&theme=tokyonight\&hide_border=true)" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenrovis&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
-\</div>
+</div>
 
 ---
 
-\<div align="center">
+<div align="center">
 
 ### Build. Learn. Create.
 
 *Every great system starts with a small experiment.*
 
-\</div>
+</div>
