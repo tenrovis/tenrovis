@@ -1,164 +1,84 @@
-# Nijat Eshrefov
+# Tenrovis
 
-<div align="center">
+\<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Developer;Building+Intelligent+Systems;Python+%7C+Backend+%7C+AI" />
+\<img src="[https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Developer;Engineering+%26+Creativity;Learning+by+Building;Turning+Ideas+into+Reality](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&size=30\&duration=2500\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=800\&lines=Software+Developer;Engineering+%26+Creativity;Learning+by+Building;Turning+Ideas+into+Reality)" />
 
-<br>
+### Software Development • Python • Engineering
 
-### AI Engineer • Python Developer • Backend Developer
+*Building things from scratch. Exploring ideas. Learning how technology works.*
 
-Building intelligent systems, scalable infrastructure, and AI-powered applications.
+\
 
-<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)](https://github.com/en1gma404)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nijat-eshrefov-435972293/)
-
-</div>
+\</div>
 
 ---
 
-# About Me
+## About Me
 
-```python
-class NijatEshrefov:
+I'm **Tenrovis**, a Computer Science student and software developer based in Baku, Azerbaijan.
 
-    def __init__(self):
-        self.role = "AI Engineer"
+I enjoy solving technical problems, understanding how complex systems work, and creating software from the ground up.
 
-        self.focus = [
-            "Machine Learning",
-            "Neural Networks",
-            "LLM Applications",
-            "Backend Development",
-            "Automation"
-        ]
+My interests include:
 
-        self.languages = [
-            "Python",
-            "JavaScript",
-            "SQL"
-        ]
+- Software engineering and system architecture
+- Python and backend development
+- Artificial intelligence and intelligent systems
+- Creative programming and experimental projects
 
-        self.goal = "Building production-ready AI systems"
+---
 
-    def philosophy(self):
-        return "Solve real problems with technology"
+## Technologies
+
+**Languages and tools I'm exploring**
+
+\<p> \<img src="[https://skillicons.dev/icons?i=python,js,ts,git,github,vscode](https://skillicons.dev/icons?i=python,js,ts,git,github,vscode)" /> \</p>
+
+**Web development**
+
+\<p> \<img src="[https://skillicons.dev/icons?i=html,css,react,nextjs](https://skillicons.dev/icons?i=html,css,react,nextjs)" /> \</p>
+
+---
+
+## Engineering Laboratory
+
+This GitHub profile is my personal engineering laboratory.
+
+A place where I experiment with ideas, learn new concepts, build prototypes, and document my progress.
+
+My goal is simple: **become a better engineer by creating real things.**
+
+---
+
+## Current Focus
+
+```text
+01  Strengthening Python fundamentals
+02  Understanding software architecture
+03  Building independent projects
+04  Exploring AI and intelligent systems
 ```
 
 ---
 
-# Tech Stack
+## GitHub Activity
 
-## Languages
+\<div align="center">
 
-<p align="left">
+\<img src="[https://github-readme-stats.vercel.app/api?username=tenrovis&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=tenrovis\&show_icons=true\&theme=tokyonight\&hide_border=true)" />
 
-<img src="https://skillicons.dev/icons?i=python,javascript,postgresql"/>
+\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=tenrovis&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=tenrovis\&layout=compact\&theme=tokyonight\&hide_border=true)" />
 
-</p>
-
----
-
-## AI & Data
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-</p>
+\</div>
 
 ---
 
-## Backend
+\<div align="center">
 
-<p align="left">
+### Build. Learn. Create.
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres"/>
+*Every great system starts with a small experiment.*
 
-</p>
-
----
-
-## Frontend
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
-
-</p>
-
----
-
-# Current Focus
-
-```python
-current_focus = {
-
-    "AI Engineering": [
-        "Deep Learning",
-        "Neural Networks",
-        "LLMs",
-        "AI Automation"
-    ],
-
-    "Backend Systems": [
-        "REST APIs",
-        "Database Architecture",
-        "Scalable Infrastructure"
-    ],
-
-    "Learning": [
-        "Advanced Python",
-        "ML Engineering",
-        "System Design"
-    ]
-}
-```
-
----
-
-# Projects & Interests
-
-```txt
-AI-powered applications
-Neural network experiments
-Automation tools
-Backend systems
-Data pipelines
-Full stack applications
-```
-
----
-
-# GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=en1gma404&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=en1gma404&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# Philosophy
-
-```txt
-Build useful systems.
-Write clean code.
-Learn continuously.
-Focus on impact.
-```
-
----
-
-<div align="center">
-
-```txt
-"Technology becomes powerful when it solves real problems."
-```
-
-</div>
+\</div>
